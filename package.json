@@ -1,6 +1,6 @@
 {
-  "name": "wechat-api",
-  "version": "1.35.1",
+  "name": "promise-wechat-api",
+  "version": "1.0.1",
   "description": "微信公共平台Node库 API",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-webot/wechat-api.git"
+    "url": "git@github.com:wechat-developer/promise-wechat-api.git"
   },
   "keywords": [
     "weixin",
@@ -33,14 +33,5 @@
     "rewire": "*",
     "istanbul": "*"
   },
-  "author": "Jackson Tian",
-  "license": "MIT",
-  "readmeFilename": "README.md",
-  "directories": {
-    "test": "test"
-  },
-  "files": [
-    "lib",
-    "index.js"
-  ]
+  "license": "MIT"
 }
