@@ -1,6 +1,6 @@
 {
   "name": "promise-wechat-api",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "微信公共平台Node库 API",
   "main": "index.js",
   "scripts": {

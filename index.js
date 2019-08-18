@@ -1,6 +1,8 @@
 'use strict';
 
 var API = require('./lib/api_common');
+// 主公众平台
+API.mixin(require('./lib/api_app'));
 // 第三方开放平台
 API.mixin(require('./lib/api_component'));
 // 接口调用频次限制
